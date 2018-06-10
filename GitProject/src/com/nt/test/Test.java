@@ -12,6 +12,7 @@ System.out.println("what about hydrabad");
 System.out.println("the output is"+1+2);
 System.out.println("hello welcom to all");
 System.out.println("good afternoon");
+System.out.println("hi friends");
 	}
 	
 
